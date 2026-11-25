@@ -145,6 +145,19 @@ Penggunaan Stub dan Spy membantu mengisolasi dependensi serta memeriksa interaks
 
 Hasil pengujian ini menjadi bukti evaluasi terhadap fungsi-fungsi utama aplikasi ShopEase dalam pelaksanaan Lab Session Modul 4.
 
-## 12. Repository dan Bukti Pengujian
+## 12. Repository dan Bukti Implementasi
 
-Informasi repository GitHub dan tautan commit khusus implementasi pengujian akan ditambahkan setelah repository Lab Session dibuat dan perubahan berhasil di-push.
+Repository GitHub:
+https://github.com/farizi123/ShopEase-LabSession
+
+Branch:
+main
+
+Commit Implementasi White Box Testing:
+https://github.com/farizi123/ShopEase-LabSession/commit/2669c73
+
+Commit Message:
+Add ShopEase white box testing implementation
+
+Seluruh implementasi pengujian telah diunggah ke repository
+GitHub khusus Lab Session Modul 4.
