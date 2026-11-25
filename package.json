@@ -1,0 +1,14 @@
+
+{
+  "name": "shopease-white-box-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "White Box Testing untuk fitur ShopEase",
+  "scripts": {
+    "test": "node --test",
+    "coverage": "c8 --reporter=text --reporter=html node --test"
+  },
+  "devDependencies": {
+    "c8": "^10.1.3"
+  }
+}
